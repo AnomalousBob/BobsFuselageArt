@@ -20,4 +20,5 @@ Here are some example use cases!
 
 ### Credits
 All assets by AnomalousBob
+
 X-15 parts from [Bluedog Design Bureau](https://github.com/CobaltWolf/Bluedog-Design-Bureau/releases)
