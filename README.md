@@ -24,4 +24,4 @@ And here's a full legend of all the decals featured, nose art decals have a mirr
 ### Credits
 All assets by AnomalousBob
 
-X-15 parts from [Bluedog Design Bureau](https://github.com/CobaltWolf/Bluedog-Design-Bureau/releases)
+X-15 example parts from [Bluedog Design Bureau](https://github.com/CobaltWolf/Bluedog-Design-Bureau/releases)
