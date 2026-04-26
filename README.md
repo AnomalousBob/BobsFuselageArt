@@ -20,6 +20,9 @@ Decals are separated by categories into conformal decal parts.
 Here are some example use cases!
 <img width="6543" height="3620" alt="ModSample1" src="https://github.com/user-attachments/assets/f272414a-35c7-46de-ab06-9aa3650cbbb7" />
 
+And here's a full legend of all the decals featured, nose art decals have a mirrored version.
+<img width="4800" height="3600" alt="ezgif com-split" src="https://github.com/user-attachments/assets/26bc9717-e444-4358-93d8-3e68c03b394b" />
+
 ### Credits
 All assets by AnomalousBob
 
