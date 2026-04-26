@@ -1,3 +1,4 @@
+https://github.com/AnomalousBob/BobsFuselageArt/releases/latest/download/Bobs.Fuselage.Art.zip
 <img width="6543" height="3620" alt="ModHeader" src="https://github.com/user-attachments/assets/7b14b97b-3036-4d1b-895b-d52e33a479dc" />
 
 This is a mod for Kerbal Space Program that adds over 120 high quality decals to add flair and make your vessels more personal!
