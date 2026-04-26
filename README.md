@@ -1,6 +1,8 @@
-<img width="6543" height="3620" alt="ModHeader" src="https://github.com/user-attachments/assets/2580387d-2216-4412-81dc-83bad3070e40" />
+<img width="6543" height="3620" alt="ModHeader" src="https://github.com/user-attachments/assets/7b14b97b-3036-4d1b-895b-d52e33a479dc" />
 
-This is a mod for Kerbal Space Program that adds over 120 high quality decals to add flair and make your vessels more personal!
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/AnomalousBob/BobsFuselageArt/latest/total)
+
+This is a mod for Kerbal Space Program that adds **over 120 high quality decals** to add flair and make your vessels more personal!
 The mod features:
 - Aircraft nose art
 - Tracking patterns
@@ -17,6 +19,9 @@ Decals are separated by categories into conformal decal parts.
 ## Okay, what can I do with it?
 Here are some example use cases!
 <img width="6543" height="3620" alt="ModSample1" src="https://github.com/user-attachments/assets/f272414a-35c7-46de-ab06-9aa3650cbbb7" />
+
+And here's a full legend of all the decals featured, nose art decals have a mirrored version.
+<img width="4800" height="3600" alt="ezgif com-split" src="https://github.com/user-attachments/assets/26bc9717-e444-4358-93d8-3e68c03b394b" />
 
 ### Credits
 All assets by AnomalousBob
